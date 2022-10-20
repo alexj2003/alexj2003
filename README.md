@@ -1,6 +1,6 @@
-## Hi there! :wave:
+## About Me
 
-Computer Science student, passionate about software and games development.
+:wave: Computer Science student, passionate about software and games development
 
 ---
 
@@ -10,4 +10,4 @@ Languages:
 - :snake: python
 
 Currently Learning:
-- :purple_heart: lua / löve2d
+- :purple_heart: lua & löve2d
