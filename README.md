@@ -2,10 +2,10 @@
 
 :wave: Computer Science student, passionate about software and games development
 
-Languages:
-- :tea: java
-- :gem: ruby
-- :snake: python
+**Languages:**
+- :tea: Java
+- :gem: Ruby
+- :snake: Python
 
-Currently Learning:
-- :purple_heart: lua & löve2d
+**Currently Learning:**
+- :purple_heart: Lua & Löve2D
