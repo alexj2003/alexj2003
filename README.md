@@ -6,6 +6,3 @@
 - :tea: Java
 - :gem: Ruby
 - :snake: Python
-
-**Currently Learning:**
-- :purple_heart: Lua & Löve2D
