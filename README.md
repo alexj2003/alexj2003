@@ -1,8 +1,3 @@
 ## About Me
 
-:wave: Computer Science student, passionate about software and games development
-
-**Languages:**
-- :tea: Java
-- :gem: Ruby
-- :snake: Python
+Final year Computer Science student with a focus on software engineering.
